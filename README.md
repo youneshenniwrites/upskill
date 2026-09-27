@@ -10,6 +10,8 @@ My software engineering learning journey: interview preparation and technical de
 
 - [OpenTelemetry](https://github.com/youneshenniwrites/upskill/wiki/OpenTelemetry) — essentials, checkout walkthrough and instrumentation reference.
 
-Future topics will be added as the journey develops: Next.js deep dives, Azure, continuous integration / continuous delivery (CI/CD), and more.
+- [Azure](https://github.com/youneshenniwrites/upskill/wiki/Azure) — build-first roadmap, practical labs and service reference.
+
+Future topics will be added as the journey develops: Next.js deep dives, continuous integration / continuous delivery (CI/CD), and more.
 
 The Wiki contains the learning material and navigation. This repository is its shared home.
