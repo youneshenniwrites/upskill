@@ -6,7 +6,7 @@ My software engineering learning journey: interview preparation and technical de
 
 **[Open the Upskill Wiki](https://github.com/youneshenniwrites/upskill/wiki/Home)**
 
-- [Elastic interview prep](https://github.com/youneshenniwrites/upskill/wiki/Elastic-Interview-Prep) — five mock interview questions with polished answers, plus linked references on caching, observability, debugging and Next.js revalidation.
+- [Elastic interview prep](https://github.com/youneshenniwrites/upskill/wiki/Elastic-Interview-Prep) — six mock interview questions with polished answers, plus linked references on caching, observability, debugging and Next.js revalidation.
 
 - [OpenTelemetry](https://github.com/youneshenniwrites/upskill/wiki/OpenTelemetry) — essentials, checkout walkthrough and instrumentation reference.
 
