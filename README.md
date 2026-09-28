@@ -12,6 +12,8 @@ My software engineering learning journey: interview preparation and technical de
 
 - [Azure](https://github.com/youneshenniwrites/upskill/wiki/Azure) — build-first roadmap, practical labs and service reference.
 
-Future topics will be added as the journey develops: Next.js deep dives, continuous integration / continuous delivery (CI/CD), and more.
+- [Next.js](https://github.com/youneshenniwrites/upskill/wiki/Nextjs) — senior refresher with rendering, data/caching, mutation, security and performance guides.
+
+Future topics will be added as the journey develops: continuous integration / continuous delivery (CI/CD), and more.
 
 The Wiki contains the learning material and navigation. This repository is its shared home.
